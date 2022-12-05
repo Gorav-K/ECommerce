@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ECommerce.Api.Customers\\Controllers",
+    "\\ECommerce.Api.Search",
+    "\\ECommerce.Api.Search\\Interfaces",
+    "\\ECommerce.Api.Search\\Models",
+    "\\ECommerce.Api.Search\\Services"
+  ],
+  "SelectedNode": "\\ECommerce.sln",
+  "PreviewInSolutionExplorer": false
+}
